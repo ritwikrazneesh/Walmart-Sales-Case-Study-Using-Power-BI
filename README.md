@@ -10,8 +10,8 @@ Target:
 8.	Top 1 customer by quantity
 9.	Sales on the month-on-month, year per year
 10.	Perform KPI (Key performance indicators) to show the sales trend axis
-These are tagets for this project
+These are targets for this project
 for further details or suggestions
-email id: faizatanveer4170@gmail.com
+email id: ritwikrazneesh0@gmail.com
 With Love and Coffee
-Faiza Tanveer
+Ritwik Razneesh
